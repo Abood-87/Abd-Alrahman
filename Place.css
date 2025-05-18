@@ -1,0 +1,15 @@
+h1{color: gold; text-align: center; font-size: xxx-large;
+   text-shadow:17px 10px 10px white;
+  }
+p{color: burlywood; font-size: larger;}
+.video-place{position: absolute;
+right: 70px; top: 130px; width: 500px; height: 200px;
+border-color: gold;}
+.back-click{position: absolute;
+top: 600px; left: 400px;}
+.go-click{position: absolute;
+top: 600px; right: 400px;}
+.click-style{
+   background-color: gold;
+   color: black;
+}
